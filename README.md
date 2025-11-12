@@ -1,2 +1,2 @@
 # Sevidor-de-Minecraft
-/workspaces/servidor/minecraft/run_crafty.sh
+/workspaces/Sevidor-de-Minecraft/README.md
